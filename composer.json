@@ -1,0 +1,13 @@
+{
+    "name": "phucbich5/demoweb1",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phucbich5",
+            "email": "phucbich3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
